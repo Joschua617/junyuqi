@@ -1,5 +1,7 @@
 # Junyu Qi, Dr.-Ing.
 
+<img src="JunyuQi_2025.jpg" alt="Dr. Junyu Qi" width="200" style="border-radius: 50%; float: left; margin-right: 20px;"/>
+
 **Postdoctoral Researcher | Intelligent Fault Diagnosis & Predictive Maintenance**
 
 [![Email](https://img.shields.io/badge/Email-junyu617@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:junyu617@gmail.com)
